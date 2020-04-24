@@ -1,0 +1,2 @@
+sp34a5e194:testproxies1234@gate.dc.smartproxy.com:20000
+lum-customer-hl_f5927bf0-zone-shared:oxvd472ljfpl@zproxy.lum-superproxy.io:22225
